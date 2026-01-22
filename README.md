@@ -115,7 +115,7 @@ These visualizations demonstrate the impact of temporal modeling and feature int
 
 1. **Clone the repository:**
 ```bash
-git clone <repository-url>
+git clone <https://github.com/CaptHeisenberg/Dengue-Prediction-Major>
 cd dengue-prediction
 ```
 
