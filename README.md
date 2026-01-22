@@ -159,7 +159,7 @@ This project validates the potential of satellite imagery combined with deep lea
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the Apache 2.0 License.
 You are free to use, modify, and distribute this software for academic and research purposes, provided that proper credit is given to the original authors.
 
 See the LICENSE file for more details.
