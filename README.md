@@ -159,12 +159,23 @@ This project validates the potential of satellite imagery combined with deep lea
 
 ## License
 
-[Add your license here]
+This project is licensed under the MIT License.
+You are free to use, modify, and distribute this software for academic and research purposes, provided that proper credit is given to the original authors.
+
+See the LICENSE file for more details.
 
 ## Contributors
+Atharva Thombare – Project Lead; Model Development, Experimentation, and Documentation
 
-[Add contributors here]
+Ayush Pathak – Model Development, Experimentation, and Documentation
+
+Shobhit Saxena – Model Development, Experimentation, and Documentation
 
 ## Acknowledgments
+The European Space Agency (ESA) for providing Sentinel-2 satellite imagery.
 
-[Add acknowledgments here]
+Google Earth Engine for enabling scalable access and preprocessing of geospatial data.
+
+The authors of prior research on satellite-based dengue prediction for foundational insights.
+
+Academic mentors and reviewers for their guidance and constructive feedback during project evaluation.
